@@ -1,5 +1,8 @@
 #  RemoteControl - G4F
 
+## Diagrama de Classe
+![Diagrama_Classe](https://github.com/meianoiteeum/G4F/blob/main/img/diagram_class.png)
+
 ## Funcionalidades
 
 ### Controle de Dispositivos
