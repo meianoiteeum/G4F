@@ -1,0 +1,7 @@
+package br.com.g4f.exceptions;
+
+public class DeviceNotFoundException extends RuntimeException{
+    public DeviceNotFoundException(String message){
+        super(message);
+    }
+}
